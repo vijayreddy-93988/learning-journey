@@ -12,6 +12,4 @@
 - 🧠 **Problem Solving:** Practice data structures, algorithms, and coding challenges to strengthen my software engineering fundamentals.
 - 🌱 **Open Source:** Contribute to Java, Spring Boot, and AI-related open-source projects while building practical applications.
 
-### 🌟 Long-Term Goal
 
-To become a highly skilled **Full Stack & AI Software Engineer**, specializing in scalable cloud-native applications, distributed systems, and intelligent AI-powered solutions.
